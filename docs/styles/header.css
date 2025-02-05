@@ -233,9 +233,10 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: -201;
   position: relative;
-  background-color: black;
+  
+  
+
 
 }
 
@@ -245,8 +246,7 @@ nav {
   background-image: url(../assets/pixel-night-bg.jpg);
   background-position: center;
   background-attachment: fixed;
-  z-index: -200;
-  opacity: 40%;
+  z-index: -10;
   position: absolute;
 
 }
