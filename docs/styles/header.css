@@ -344,7 +344,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: -201;
+  z-index: 0;
   position: relative;
   background-color: black;
 
@@ -357,7 +357,7 @@ nav {
   background-position: center;
   background-attachment: fixed;
   background-size: 100% 100%;
-  z-index: -200;
+  z-index: -201;
   opacity: 70%;
   position: absolute;
   
@@ -464,6 +464,13 @@ nav {
   height:  80px;
 }
 
+.contact-button {
+  cursor: pointer;
+  
+}
+
+
+
 
 
 
@@ -566,6 +573,7 @@ nav {
 
   .contact-me-section {
   }
+
 
   .window {
     height: 70px;
