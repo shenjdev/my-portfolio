@@ -331,6 +331,11 @@ nav {
 
 }
 
+.project-thumbnail-container:hover {
+  cursor: pointer;
+
+}
+
 .project-thumbnail {
   width: 100%;
   
