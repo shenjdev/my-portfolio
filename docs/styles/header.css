@@ -60,6 +60,10 @@ nav {
 
 }
 
+.navbar a {
+  text-decoration: none;
+}
+
 .navbar-link {
   color: white;
   margin-left: 10px;
@@ -595,6 +599,7 @@ nav {
 
   }
 
+
   .pfp-container {
     color: white;
   
@@ -610,6 +615,7 @@ nav {
     color: white;
     font-family: 'VT323', sans-serif;
     font-size: 1.5rem;
+    
 
   }
 
