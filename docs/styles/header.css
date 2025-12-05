@@ -388,7 +388,7 @@ nav {
   background-image: url(../assets/silhouettes-of-skyscrapers-in-night-city-landscape-background-in-flat-style-vector.jpg);
   background-position: center;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: cover;
   z-index: -201;
   opacity: 70%;
   position: absolute;
