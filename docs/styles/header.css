@@ -707,6 +707,10 @@ nav {
   .window {
     height: 50px;
   }
+
+    .city-background {
+    background-attachment: scroll;
+  }
 }
 
 /* Mobile phones (portrait) */
@@ -788,6 +792,8 @@ nav {
   .window {
     height: 40px;
   }
+
+
 
 }
 
